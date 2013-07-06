@@ -20,6 +20,12 @@ Fork it in github, then clone it locally
 
 Where `my-vertx-module` is the name you want to give your project.
 
+Be careful, you might see
+
+    fatal: https://github.com/bytor99999/vertx-gradle-template.git/info/refs not found: did you run git update-server-info on the server?
+
+If this message appears, you need to go ..... (I have no idea how to fix this)
+
 Let's run the tests to make sure everything is working
 
     cd my-vertx-module
